@@ -21,4 +21,4 @@ python app.py        # http://localhost:5000
 
 ## Integrantes
 - Daniel Madrid Giraldo
-- (pareja)
+- Breiner Andres Peralta Henao 
